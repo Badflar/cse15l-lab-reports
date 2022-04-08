@@ -1,3 +1,1 @@
-# This is a website
-
-With some *new* changes.
+# [Lab Report 1 (Week 2)](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab1/Screenshot%202022-04-06%20141159.png?raw=true)
