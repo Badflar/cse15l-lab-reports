@@ -158,7 +158,9 @@ Here are a few tips for making command line work easier
 
 - You can write quotes around the end of an ssh login command to immediately run a new command on the server. For example:
   ```ssh cs15lsp22aci@ieng6.ucsd.edu "ls"```
+  ![Image](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab1/Screenshot%202022-04-16%20130738.png?raw=true)
 - You can make semicolons to run multiple commands in order. For example:
   ```cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI```
+  ![Image](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab1/Screenshot%202022-04-16%20131015.png?raw=true)
 - You can use the up arrow on your keyboard to recall previous commands.
 - You can use tab to predictive type your directory search. 
