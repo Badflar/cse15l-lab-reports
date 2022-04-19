@@ -1,1 +1,3 @@
-# [Lab Report 1 (Week 2)](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab1/Screenshot%202022-04-06%20141159.png?raw=true)
+# [Lab Report 1 (Week 2)](https://badflar.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+# [Lab Report 2 (Week 4)](https://badflar.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
