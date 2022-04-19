@@ -28,3 +28,6 @@ Finally if there was just [text in brackets but no link](https://github.com/Badf
 ![Image](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab2/Screenshot%202022-04-19%20153356.png?raw=true)
 
 So to fix this we did a similar thing as in "Change No.2" but skip if theres no open parentheses after a closed bracket.
+
+![Image](https://github.com/Badflar/cse15l-lab-reports/blob/main/Screenshots/Lab2/Screenshot%202022-04-19%20153657.png?raw=true)
+
